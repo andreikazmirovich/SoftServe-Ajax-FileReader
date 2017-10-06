@@ -1,0 +1,8 @@
+{
+	"name": "Andrew",
+	"sName": "Kazmirovich",
+	"image": "https://avatars2.githubusercontent.com/u/19777595?v=4&s=400&u=0498b72d353781bfc1fe50c4e23f68bffb4a0d26",
+	"spec": "Front-end developer",
+	"description": "Кароч я собі програміст, люблю компутори ріхтувати і Швінтуси переустанавлювать",
+	"skills": ["JavaScript (ES 5/6)", "HTML5/CSS3", "Angular 4", "Bootstrap 4", "jQuery", "Less", "Git (GitHub)"]
+}
